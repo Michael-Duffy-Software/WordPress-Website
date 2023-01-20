@@ -12,10 +12,10 @@ This project involved creating a WordPress website on a research topic of choice
 
 
 ### **WordPress Website Homepage**
-![Table](/assets/mxlinuxhomepage.png)
+![](/assets/mxlinuxhomepage.png)
 
 ### **WordPress Dashboard**
-![Graph](/assets/wotdpressdashboard.png)
+![](/assets/wotdpressdashboard.png)
 
-### * Matomo Data Analytics Dashboard**
-![Table](/assets/matomodashboard.png)
+### ** Matomo Data Analytics Dashboard**
+![](/assets/matomodashboard.png)
